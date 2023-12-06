@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavin Raut</h1>
 <h3 align="center">A passionate frontend developer frI'm a passionate web Developer based in India. My journey in the world of coding started with C and has evolved into a love for JavaScript.om India</h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechnostupid.com%2F&psig=AOvVaw3V_7cUdruNfAZE6URTFiSA&ust=1701963379358000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCp_uqR-4IDFQAAAAAdAAAAABAE" width="400"> align="right"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavin2000&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin2000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavin2000" alt="bhavin2000" /></a> </p>
