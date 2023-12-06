@@ -5,7 +5,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhavin2000&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin2000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavin2000" alt="bhavin2000" /></a> </p>
 
 - 🔭 I’m currently studying For Masters of Computer Apllication **Solar Power Website**
 
@@ -36,5 +35,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavin2000&show_icons=true&locale=en&layout=compact" alt="bhavin2000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavin2000&show_icons=true&locale=en" alt="bhavin2000" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavin2000" alt="bhavin2000" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavin2000&" alt="bhavin2000" /></p>
