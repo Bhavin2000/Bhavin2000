@@ -6,19 +6,17 @@
   <img src="https://komarev.com/ghpvc/?username=bhavin2000&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin2000" /> </p>
 
 
-- 🔭 I’m currently studying For Masters of Computer Apllication **Solar Power Website**
+- 🔭 I’m currently studying Masters of Computer Apllication **Solar Power Website**
 
 - 🌱 I’m currently learning **Next.js, Node.js**
 
 - 👯 I’m looking to collaborate on **Solar Power Website**
 
-- 👨‍💻 All of my projects are available at [https://bhavinraut.vercel.app](https://bhavinraut.vercel.app)
+- 👨‍💻 My Portfolio [https://bhavinraut.vercel.app](https://bhavinraut.vercel.app)
 
 - 💬 Ask me about **React,Next.js**
 
 - 📫 How to reach me **Bhavinraut2@gmail.com**
-
-- 📄 Know about my experiences [https://bhavinraut.vercel.app](https://bhavinraut.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,11 +29,11 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavin2000&show_icons=true&locale=en&layout=compact" alt="bhavin2000" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavin2000&show_icons=true&locale=en" alt="bhavin2000" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavin2000&" alt="bhavin2000" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavin2000" alt="bhavin2000" /></a> </p>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/bhavinraut"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="120" alt="https://www.buymeacoffee.com/bhavinraut" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/bhavinraut"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="https://www.buymeacoffee.com/bhavinraut" /></a></p><br><br>
