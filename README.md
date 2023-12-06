@@ -27,8 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhavin-raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavin-raut" height="30" width="40" /></a>
-<a href="https://instagram.com/bhavin_raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavin_raut" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhavin-raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavin-raut"  target="_blank" height="30" width="40" /></a>
+<a href="https://instagram.com/bhavin_raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavin_raut"  target="_blank" height="30" width="40" /></a>
 </p>
 <br/>
 <br/>
@@ -40,4 +40,4 @@
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavin2000" alt="bhavin2000" /></a> </p>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/bhavinraut"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="https://www.buymeacoffee.com/bhavinraut" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/bhavinraut"  target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="https://www.buymeacoffee.com/bhavinraut" /></a></p><br><br>
