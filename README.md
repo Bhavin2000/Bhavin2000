@@ -43,3 +43,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavin2000" alt="bhavin2000" /></a> </p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bhavinraut"  target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="https://www.buymeacoffee.com/bhavinraut" /></a></p><br><br>
+</div>
